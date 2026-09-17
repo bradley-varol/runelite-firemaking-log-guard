@@ -1,0 +1,13 @@
+.gradle/
+build/
+.idea/
+*.iml
+.project
+.settings/
+.classpath
+nbactions.xml
+nb-configuration.xml
+nbproject/
+*.class
+.DS_Store
+firemaking-log-guard-source.zip
