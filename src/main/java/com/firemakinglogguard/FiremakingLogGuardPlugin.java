@@ -25,7 +25,7 @@ import net.runelite.client.ui.overlay.OverlayManager;
 
 @PluginDescriptor(
     name = "Firemaking Log Guard",
-    description = "Protects inventory logs while you are lighting a fire",
+    description = "Highlights and protects inventory logs while lighting a fire, preventing accidentally dropping logs",
     tags = {"firemaking", "logs", "inventory"}
 )
 public class FiremakingLogGuardPlugin extends Plugin
